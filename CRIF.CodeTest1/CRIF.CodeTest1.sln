@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRIF.CodeTest1", "CRIF.CodeTest1.csproj", "{247F1BE7-3D94-4F78-BA54-E52BC82C7914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247F1BE7-3D94-4F78-BA54-E52BC82C7914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247F1BE7-3D94-4F78-BA54-E52BC82C7914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247F1BE7-3D94-4F78-BA54-E52BC82C7914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247F1BE7-3D94-4F78-BA54-E52BC82C7914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46711DD-8ABB-4099-9473-8C71B7584B02}
+	EndGlobalSection
+EndGlobal

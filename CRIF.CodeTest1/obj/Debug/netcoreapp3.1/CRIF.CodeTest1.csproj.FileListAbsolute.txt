@@ -1,0 +1,11 @@
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\bin\Debug\netcoreapp3.1\CRIF.CodeTest1.exe
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\bin\Debug\netcoreapp3.1\CRIF.CodeTest1.deps.json
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\bin\Debug\netcoreapp3.1\CRIF.CodeTest1.runtimeconfig.json
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\bin\Debug\netcoreapp3.1\CRIF.CodeTest1.runtimeconfig.dev.json
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\bin\Debug\netcoreapp3.1\CRIF.CodeTest1.dll
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\bin\Debug\netcoreapp3.1\CRIF.CodeTest1.pdb
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\obj\Debug\netcoreapp3.1\CRIF.CodeTest1.csprojAssemblyReference.cache
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\obj\Debug\netcoreapp3.1\CRIF.CodeTest1.AssemblyInfoInputs.cache
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\obj\Debug\netcoreapp3.1\CRIF.CodeTest1.AssemblyInfo.cs
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\obj\Debug\netcoreapp3.1\CRIF.CodeTest1.dll
+C:\Works\_job2021\CRIF\CRIF.CodeTest1\obj\Debug\netcoreapp3.1\CRIF.CodeTest1.pdb
